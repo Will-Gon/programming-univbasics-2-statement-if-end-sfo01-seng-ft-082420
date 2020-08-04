@@ -1,4 +1,7 @@
 # Write your solution here
 
-puts "Even!"
-if 
+if true 
+  puts "Even!"
+else 
+  puts "Odd!"
+end
