@@ -1,3 +1,4 @@
 # Write your solution here
 
-put
+puts "Even!"
+if 
